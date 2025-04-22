@@ -1,3 +1,4 @@
 db/*.sqlite3
 .DS_Strore
 node_modules
+session-store.db
